@@ -1,0 +1,9 @@
+syntax = "proto3";
+package stateset.statesetchain.statesetchain;
+
+option go_package = "github.com/stateset/statesetchain/x/statesetchain/types";
+
+// GenesisState defines the capability module's genesis state.
+message GenesisState {
+}
+
